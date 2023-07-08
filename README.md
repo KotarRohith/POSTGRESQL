@@ -17,7 +17,7 @@ matplotlib library (install with pip install matplotlib)
 
 Clone this repository to your local machine:
 
-git clone https://github.com/your-username/your-repository.git
+git clone (https://github.com/KotarRohith/POSTGRESQL.git)
 
 Usage
 
