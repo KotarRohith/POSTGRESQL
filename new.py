@@ -16,7 +16,7 @@ engine = create_engine('postgresql://postgres:Sonia123!@localhost:5432/TEST-DB')
 data.to_sql('customer_data', engine, if_exists='replace', index=False)
 # Example: Calculate the average age
 average_age = data['Age'].mean()
-print(f"Average Age: {average_age}")
+print(f"Average A: {average_age}")
 import matplotlib.pyplot as plt
 
 # Example: Plot age distribution
